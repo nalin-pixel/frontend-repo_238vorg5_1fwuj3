@@ -38,9 +38,9 @@ function App() {
               <p className="text-sm text-gray-500">System</p>
               <p className="text-lg font-medium text-blue-600">Run health check →</p>
             </a>
-            <a href="#crm" className="p-4 border rounded-lg hover:bg-gray-50">
-              <p className="text-sm text-gray-500">CRM</p>
-              <p className="text-lg font-medium text-indigo-600">Generate message →</p>
+            <a href="/landing" className="p-4 border rounded-lg hover:bg-gray-50">
+              <p className="text-sm text-gray-500">Marketing</p>
+              <p className="text-lg font-medium text-indigo-600">View landing page →</p>
             </a>
           </div>
         </div>
